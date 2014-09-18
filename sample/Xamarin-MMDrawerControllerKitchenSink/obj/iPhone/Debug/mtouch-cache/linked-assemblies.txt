@@ -1,0 +1,6 @@
+/Users/adlair/Xamarin-Bindings/MMDrawerController/sample/MMDrawerControllerKitchenSink/obj/iPhone/Debug/mtouch-cache/Link/System.Core.dll
+/Users/adlair/Xamarin-Bindings/MMDrawerController/sample/MMDrawerControllerKitchenSink/obj/iPhone/Debug/mtouch-cache/Link/mscorlib.dll
+/Users/adlair/Xamarin-Bindings/MMDrawerController/sample/MMDrawerControllerKitchenSink/obj/iPhone/Debug/mtouch-cache/Link/monotouch.dll
+/Users/adlair/Xamarin-Bindings/MMDrawerController/sample/MMDrawerControllerKitchenSink/obj/iPhone/Debug/mtouch-cache/Link/MMDrawerControlleriOSSample.exe
+/Users/adlair/Xamarin-Bindings/MMDrawerController/sample/MMDrawerControllerKitchenSink/obj/iPhone/Debug/mtouch-cache/Link/System.dll
+/Users/adlair/Xamarin-Bindings/MMDrawerController/sample/MMDrawerControllerKitchenSink/obj/iPhone/Debug/mtouch-cache/Link/MMDrawerController.iOS.dll

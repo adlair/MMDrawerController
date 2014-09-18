@@ -1,0 +1,5 @@
+/Users/adlair/Xamarin-Bindings/MMDrawerController/binding/MMDrawerController.iOS/obj/Debug/MonoTouch,Version=v1.0.AssemblyAttribute.cs
+/Users/adlair/Xamarin-Bindings/MMDrawerController/binding/MMDrawerController.iOS/bin/Debug/MMDrawerController.iOS.dll.mdb
+/Users/adlair/Xamarin-Bindings/MMDrawerController/binding/MMDrawerController.iOS/bin/Debug/MMDrawerController.iOS.dll
+/Users/adlair/Xamarin-Bindings/MMDrawerController/binding/MMDrawerController.iOS/obj/Debug/MMDrawerController.iOS.dll
+/Users/adlair/Xamarin-Bindings/MMDrawerController/binding/MMDrawerController.iOS/obj/Debug/MMDrawerController.iOS.dll.mdb

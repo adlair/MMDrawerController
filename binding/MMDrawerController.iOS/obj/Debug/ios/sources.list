@@ -1,0 +1,6 @@
+obj/Debug/ios/ObjCRuntime/Messaging.g.cs
+obj/Debug/ios/MMDrawerController/MMDrawerBarButtonItem.g.cs
+obj/Debug/ios/MMDrawerController/MMDrawerController.g.cs
+obj/Debug/ios/MMDrawerController/Subclass_MMDrawerController.g.cs
+obj/Debug/ios/MMDrawerController/MMDrawerController_UIViewController.g.cs
+obj/Debug/ios/ObjCRuntime/Trampolines.g.cs

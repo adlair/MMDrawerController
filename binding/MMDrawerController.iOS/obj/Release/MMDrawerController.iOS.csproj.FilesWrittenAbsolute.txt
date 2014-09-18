@@ -1,0 +1,1 @@
+/Users/adlair/Xamarin-Bindings/MMDrawerController/source/binding/MMDrawerController.iOS/MMDrawerController.iOS/obj/Release/MonoTouch,Version=v1.0.AssemblyAttribute.cs
